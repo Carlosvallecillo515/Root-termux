@@ -6,7 +6,7 @@ $ cd Root-termux
 
 $ bash install.sh
 
-$ start
+$ ./start
 
 $ root
 
