@@ -1,5 +1,7 @@
 # Root-termux
 
+$ git clone https://github.com/Carlosvallecillo515/Root_en-Temux.git
+
 $ cd Root-termux 
 
 $ bash install.sh
